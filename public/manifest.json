@@ -1,0 +1,26 @@
+{
+    "short_name": "Talab Now",
+    "name": "e-solution & e-services",
+    "icons": [
+        {
+            "src": "/img/manifest/128.png",
+            "type": "image/png",
+            "sizes": "128x128"
+        },
+        {
+            "src": "/img/manifest/192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/img/manifest/512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": "/",
+    "background_color": "#3593cd",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#3593cd"
+}
